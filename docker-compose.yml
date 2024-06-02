@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+#  warehouse-app:
+#    container_name: warehouse-app
+#    build:
+#      context: ./WarehouseManagementSystem
+#      dockerfile: ./Dockerfile
+#    ports:
+#      # external:internal
+#      - "8000:80"
+#    depends_on:
+#      - warehouse-db
+#    environment:
+#      - ConnectionStrings:DefaultConnection=Host=warehouse-db:5432;Database=marleen-warehouse;Username=postgres;Password=postgres
+#  
+  
+  warehouse-db:
+    container_name: warehouse-db
+    image: "postgres:15.2-bullseye"
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+    ports:
+      # external:internal
+      - "5448:5432"
+    volumes:
+      - warehouse-db-postgres-volume:\Users\danyi\RiderProjects\postgresql
+
+volumes:
+  warehouse-db-postgres-volume:
+ 

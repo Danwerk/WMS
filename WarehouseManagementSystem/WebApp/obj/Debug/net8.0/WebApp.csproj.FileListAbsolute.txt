@@ -1,7 +1,6 @@
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\appsettings.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
-C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\app.db
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\WebApp.exe
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\WebApp.deps.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
@@ -30,6 +29,8 @@ C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
@@ -111,6 +112,14 @@ C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\App.DAL.EF.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\App.Domain.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Base.Contracts.Domain.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Base.Domain.dll
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\App.DAL.EF.pdb
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Base.Contracts.Domain.pdb
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\bin\Debug\net8.0\Base.Domain.pdb
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
@@ -120,6 +129,7 @@ C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\danyi\RiderProjects\WMS\WarehouseManagementSystem\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
